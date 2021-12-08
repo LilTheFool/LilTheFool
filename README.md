@@ -1,16 +1,27 @@
-### Hi there 👋
+# hiiii!! :>
 
-<!--
-**LilTheFool/LilTheFool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lil (they/them), the cool comp sci friend 
 
-Here are some ideas to get you started:
+🐑🐑🐑 \
+You can find me on: 
+- twitter - @LilTheFool
+- discord - Lil#2553
+- the interwebs - LilithDaly.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and even
+- IRL - contact@lilithdaly.com
+
+I think that's all I have to say, really. Be gay, do crimes, and stay safe. \
+🐑🐑🐑
+
+## What I am proud of! :3
+
+This list is incomplete, you can help by expanding it:
+
+## Contributing!
+Pull requests are always welcome on all of my public repos. \
+If you think you can somehow get my dumb code to work, be my guest.
+
+## License
+I try my best to license everything I can as
+[MIT](https://choosealicense.com/licenses/mit/)
